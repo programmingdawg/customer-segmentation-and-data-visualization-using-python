@@ -216,6 +216,11 @@ leftcolumn.plotly_chart(fig5, use_container_width=True)
 rightcolumn.plotly_chart(fig6, use_container_width=True)
 
 
+# To view the dashboard, run the following command in the terminal
+
+streamlit run "streamlit run d:/my projects/segmentataion/myvenv/Scripts/dashboard.py"
+
+
 
 
 
